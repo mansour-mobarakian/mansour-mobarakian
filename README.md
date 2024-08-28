@@ -10,7 +10,7 @@
 **Some of the technologies I have worked with**
 
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
-![React.js](https://img.shields.io/badge/-React.js-000000?style=flat&logo=react.js&logoColor=387fc8)
+![React.js](https://img.shields.io/badge/-React.js-000000?style=flat&logo=react&logoColor=387fc8)
 ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
